@@ -8,7 +8,9 @@ First clone the repository and open your terminal then use the command to go the
 
 ```
 git clone https://github.com/Adzman1999/mini-blog-skill-test
+```
 
+```
 cd mini-blog-skill-test
 ```
 
